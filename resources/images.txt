@@ -1,0 +1,11 @@
+rum - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-spiced-rum.jpg
+myrtle ave - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-myrtle-ave.jpg
+background - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg
+locations - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg
+donut - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg
+berry - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg
+bedford - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg
+logo - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png
+
+
+design spec - https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg
